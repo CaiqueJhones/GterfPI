@@ -1,5 +1,5 @@
 {
-  [
+  "flavors": [
     {
       "productFlavor": "rio",
       "blocked": false,
