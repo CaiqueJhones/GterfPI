@@ -1,14 +1,14 @@
 {
-  "apps" = [
+  "apps": [
     {
-      "productFlavor" = "rio",
-      "blocked" = false,
-      "message" = ""
+      "productFlavor": "rio",
+      "blocked": false,
+      "message": ""
     },
     {
-      "productFlavor" = "mito",
-      "blocked" = false,
-      "message" = ""
+      "productFlavor": "mito",
+      "blocked": false,
+      "message": ""
     }
   ]
 }
