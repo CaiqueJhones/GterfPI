@@ -6,7 +6,7 @@
   },
   {
     "productFlavor": "mito",
-    "blocked": true,
+    "blocked": false,
     "message": "App está bloqueado, consulte o administrador!"
   }
  ]
