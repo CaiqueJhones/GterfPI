@@ -1,14 +1,12 @@
-{
-  "flavors": [
-    {
-      "productFlavor": "rio",
-      "blocked": false,
-      "message": ""
-    },
-    {
-      "productFlavor": "mito",
-      "blocked": true,
-      "message": "App está bloqueado, consulte o administrador!"
-    }
-  ]
-}
+{[
+  {
+    "productFlavor": "rio",
+    "blocked": false,
+    "message": ""
+  },
+  {
+    "productFlavor": "mito",
+    "blocked": true,
+    "message": "App está bloqueado, consulte o administrador!"
+  }
+ ]}
