@@ -1,4 +1,4 @@
-{[
+[
   {
     "productFlavor": "rio",
     "blocked": false,
@@ -9,4 +9,4 @@
     "blocked": true,
     "message": "App está bloqueado, consulte o administrador!"
   }
- ]}
+ ]
